@@ -37,6 +37,9 @@ body{
 }
 
 .contenedor{
+  width: 100%;
+  max-width: 1200px;
+  margin: 0px auto;
   display: flex;
 }
 
@@ -64,8 +67,20 @@ body{
 .boton:hover{
   border: #ffffff solid 2px;
   cursor: pointer;
-}
  
+}
+.boton:hover{
+  background-color: #57b8d6;
+}
+.titulo1:hover{
+  color: #39A70B;
+} 
+.titulo2:hover{
+  color: #39A70B;
+} 
+.texto:hover{
+  color: #39A70B;
+} 
 
 
 
@@ -73,8 +88,10 @@ body{
 /* Aqui va la parte de Cristian */
 
 .container{
+  width: 100%;
+  max-width: 1200px;
+  margin: 0px auto;
   background: white;
-  padding: 0px 100px;
 }
 
 .cont{
