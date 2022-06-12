@@ -19,7 +19,6 @@ body{
 .container{
   background: white;
   padding: 0px 100px;
-  position: fixed;
 }
 
 .cont{
@@ -27,6 +26,7 @@ body{
   height: 85px;
   display: flex;
   justify-content: end;
+  position: fixed;
 }
 
 .logos{
