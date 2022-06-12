@@ -15,3 +15,38 @@ body{
 
 
 /* Aqui va la parte de Cristian */
+
+.container{
+  background: white;
+  padding: 0px 100px;
+}
+
+.cont{
+  width: 100%;
+  height: 85px;
+  display: flex;
+  justify-content: end;
+}
+
+.logos{
+  width: 80px;
+  height: 80px;
+  top: 5px;
+  left: 100px;
+  position: fixed;
+}
+
+.barralink1, .barralink2, .barralink3, .barralink4{
+  margin: 28px 35px;
+}
+
+.link{
+  text-decoration: none;
+  color: black;
+  font-weight: 900;
+}
+
+.link:hover{
+  color: #39A70B;
+  border-bottom: 3px solid #39A70B;
+}
