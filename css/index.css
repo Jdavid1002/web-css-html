@@ -11,6 +11,61 @@ body{
 }
 
 /* Aqui va la parte de David */
+.titulo1{
+  margin-bottom: 1px;
+  font-size: 50px;
+  color: rgb(55, 56, 56);
+  margin: 1px 1px 1px 1px;
+}
+.titulo2{
+  margin-bottom: 20px;
+  font-size: 55px;
+  margin: 1px 1px 1px 1px;
+  font-weight: bolder ;
+  
+}
+
+
+.imagen1{
+  background-image:url("../images/imagen.png") ;
+  height: 500px;
+  width: 500px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  
+}
+
+.contenedor{
+  display: flex;
+}
+
+.contenedor-de-texto{
+  width: 50%;
+  padding-top: 50px;
+  padding-left: 100px;
+}
+.boton{
+  
+  background-color: #39A70B;
+  border-radius: 18px;
+  border: 1px;
+  width: 120px;
+  height: 40px;
+  margin: 20px 10px 20px 1px;
+}
+
+.boton-letra{
+  color: aliceblue;
+  font-weight: bolder;
+  text-decoration: none; 
+}
+
+.boton:hover{
+  border: #ffffff solid 2px;
+  cursor: pointer;
+}
+ 
+
 
 
 
