@@ -29,11 +29,10 @@ body{
 }
 
 .logos{
-  width: 80px;
-  height: 80px;
-  top: 5px;
+  width: 75px;
+  height: 75px;
+  top: 10px;
   left: 100px;
-  position: fixed;
 }
 
 .barralink1, .barralink2, .barralink3, .barralink4{
