@@ -19,6 +19,7 @@ body{
 .container{
   background: white;
   padding: 0px 100px;
+  position: fixed;
 }
 
 .cont{
