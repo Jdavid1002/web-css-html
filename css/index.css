@@ -31,8 +31,7 @@ body{
 .logos{
   width: 75px;
   height: 75px;
-  top: 10px;
-  left: 100px;
+  margin-right: 530px;
 }
 
 .barralink1, .barralink2, .barralink3, .barralink4{
